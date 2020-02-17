@@ -11,3 +11,9 @@ The Dataset is of product reviews on Amazon.com collected over a span of 18 year
 2. The other aspect of the case is to create numerical classification using polarity score to be created in an unsupervised learning way. Use both TextBlob and Vader algorithms to create polarity scores. 
 3. We are then asked to perform clustering of the reviews and perform basic statistical analysis to test if clusters stratify the numerical classes. 
 4. Lastly, find out the set of tokens that are collectively most deterministic of the numerical classes, i.e. the tokens that define class 1 etc.
+
+### Links
+A link to my Jupyter Notebook can be found [here](https://github.com/JacobMannix/PythonTextMining_AmazonReviews/blob/master/MannixFinalCase.ipynb) and the final report can be found [here](https://github.com/JacobMannix/PythonTextMining_AmazonReviews/blob/master/Mannix_Final_Case_Analysis_Report.pdf)
+
+
+[here](/Mannix_Final_Case_Analysis_Report.pdf)
