@@ -13,7 +13,4 @@ The Dataset is of product reviews on Amazon.com collected over a span of 18 year
 4. Lastly, find out the set of tokens that are collectively most deterministic of the numerical classes, i.e. the tokens that define class 1 etc.
 
 ### Links
-A link to my Jupyter Notebook can be found [here](https://github.com/JacobMannix/PythonTextMining_AmazonReviews/blob/master/MannixFinalCase.ipynb) and the final report can be found [here](https://github.com/JacobMannix/PythonTextMining_AmazonReviews/blob/master/Mannix_Final_Case_Analysis_Report.pdf)
-
-
-[here](/Mannix_Final_Case_Analysis_Report.pdf)
+A link to my Jupyter Notebook can be found [here](MannixFinalCase.ipynb) and the final report can be found [here](Mannix_Final_Case_Analysis_Report.pdf)
