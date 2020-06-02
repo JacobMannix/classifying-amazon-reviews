@@ -1,4 +1,4 @@
-# Python - TextMining on Amazon Reviews
+# TextMining Amazon Reviews using Python
 Case Analysis using ML methods and algorithms to gain insight into customer reviews
 
 This case analysis is meant to require competency for out entire module on Machine Learning methods and algorithms we have discussed.
