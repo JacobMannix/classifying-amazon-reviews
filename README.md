@@ -1,5 +1,9 @@
 # Classifying Amazon Reviews with Python
-Case Analysis using ML methods and algorithms to gain insight into customer reviews
+[![GitHub](https://img.shields.io/github/license/jacobmannix/classifying-amazon-reviews?color=blue)](LICENSE)
+[![GitHub top language](https://img.shields.io/github/languages/top/jacobmannix/classifying-amazon-reviews)](https://github.com/JacobMannix/classifying-amazon-reviews)
+[![GitHub last commit](https://img.shields.io/github/last-commit/jacobmannix/classifying-amazon-reviews)](https://github.com/JacobMannix/classifying-amazon-reviews/commits/master)
+
+> <b> Case Analysis using ML methods and algorithms to gain insight into customer reviews. </b>
 
 This case analysis is meant to require competency for out entire module on Machine Learning methods and algorithms we have discussed.
 
